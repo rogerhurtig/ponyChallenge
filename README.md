@@ -1,3 +1,6 @@
+# Disclaimer
+This solution was done 2021-12-30 and added to my repository 2022-05-25 to display some recent code done outside of working hours.
+
 # Pony Challenge (get started)
 Type the following in the terminal to get the local development up and running:
 1. "npm install"
